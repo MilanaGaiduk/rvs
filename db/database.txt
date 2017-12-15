@@ -1,6 +1,6 @@
-1 Ivanov Ivan 1945
-2 Borisov Anton 1934
-3 Sergeenko Anna 1980
-4 Golubeva Olga 1956
-5 Frolov Alexey 1991
-6 Ignatiev Alexandr 1989
+1 Ivanov Ivan
+2 Borisov Anton
+3 Sergeenko Anna
+4 Golubeva Olga
+5 Frolov Alexey
+6 Ignatiev Alexandr
