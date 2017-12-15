@@ -1,7 +1,7 @@
 import socket
 
 client_sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-client_sock.connect(('192.168.249.130', 53211))
+client_sock.connect(('192.168.249.130', 53210))
 
 a=''
 print('Write STOP to stop interacting')
